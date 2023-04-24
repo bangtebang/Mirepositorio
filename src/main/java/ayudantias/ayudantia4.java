@@ -1,4 +1,4 @@
-package src.main.java;
+package src.main.java.ayudantias;
 import java.util.Scanner;
 import java.util.Random;
 public class ayudantia4 {

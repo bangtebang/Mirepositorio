@@ -1,4 +1,4 @@
-package src.main.java;
+package src.main.java.tareas;
 import java.util.Scanner;
 public class tareasucecion {
     public static void main(String[] args) {

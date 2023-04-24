@@ -1,3 +1,5 @@
+package src.main.java.ayudantias;
+
 public class promedio {
     public static void main(String[] args) {
         double promedio=calcularPromedio();

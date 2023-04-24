@@ -1,4 +1,4 @@
-package src.main.java;
+package src.main.java.ayudantias;
 
 public class Powerlifter {
     private String nombre;

@@ -1,6 +1,6 @@
-package src.main.java;
+package src.main.java.tareas;
 import java.util.Scanner;
-import java.util.Random;
+
 public class Taller1 {
     public static void main(String[] args) {
         double [][]alumnos=matrizAlumnos();
