@@ -1,4 +1,4 @@
-package src.main.java;
+package src.main.java.ayudantias;
 import java.util.Scanner;
 public class ayudantia5 {
         public static void main(String[] args) {

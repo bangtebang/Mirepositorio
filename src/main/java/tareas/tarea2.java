@@ -1,4 +1,4 @@
-package src.main.java;
+package src.main.java.tareas;
 
 public class tarea2 {
     public static void main(String[] args) {
