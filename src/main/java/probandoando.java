@@ -4,11 +4,14 @@ import javax.imageio.ImageTranscoder;
 import java.util.Random;
 public class probandoando {
     public static void main(String[] args) {
-        double [][]alumnos=matrizAlumnos();
-        generarNota(alumnos);
-        mostrarMatriz(alumnos);
-
+     int x=5;
+     int z=0;
+     for(int y=4;y>0;y--){
+         z+= ++x + y;
+     }
+        System.out.println("z="+z);
     }
+
     public static double[][] matrizAlumnos(){
         double[][] alumnos = new double[50][5];
         for (int i = 0; i<50; i++) {
